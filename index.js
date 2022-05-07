@@ -177,7 +177,13 @@ ${response.test}
 #### Email
 ${response.email}
     `
+fs.writeFileSync('README.md', markdownContent, function(error){
+    if (error) 
+    throw error
 })
+    console.log(markdownContent)
+})
+
 // TODO: Create a function to write README file
 
 // TODO: Create a function to initialize app
@@ -185,4 +191,4 @@ ${response.email}
 // Function call to initialize app
 
 
-// console.log('hello node!')
+
