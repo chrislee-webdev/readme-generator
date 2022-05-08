@@ -1,8 +1,8 @@
 
-# Title: a
+# Title: Readme generator
 
 ## Description:
-s
+nodejs backend app
 
 ### Table of contents
 * [Installation](#installation)
@@ -14,23 +14,23 @@ s
 * [email](#email)
     
 #### Installation
-d
+npm i
 
 #### Usage
-f
+Free
 
 #### Contribute
-d
+Chris Lee
 
 #### Test
-s
+Manual
 
 #### License
-![GitHub license](https://img.shields.io/badge/license-GPL-green.svg)}
+![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
 
 #### GitHub
-[Github Profile](https://github.com/a)
+[Github Profile](https://github.com/test)
 
 #### Email
-s
+tst@test.com
     
