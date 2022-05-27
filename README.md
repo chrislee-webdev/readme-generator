@@ -1,8 +1,8 @@
 
-# Title: README Generator
+# Title: Note Taker App
 
 ## Description:
-This project was to create a README genertaor using backend skills with node.js. This project prompted the user to answer questions to a series of questions such as the name of the project, project details, installation instructions, usage, how to contribute and test, license used, GitHub username, and email address. After all answers have been provided the app generated a README.md file for said project 
+This is an onlilne application that uses Express.js that allows the user to take and save notes.
 
 ### Table of contents
 * [Installation](#installation)
@@ -14,19 +14,19 @@ This project was to create a README genertaor using backend skills with node.js.
 * [email](#email)
     
 #### Installation
-npm i
+N/A
 
 #### Usage
-Free
+Visit the deployed website.
 
 #### Contribute
-Chris Lee
+GitHub
 
 #### Test
-Manual
+Visit the website.
 
 #### License
-![GitHub license](https://img.shields.io/badge/license-Artistic license 2.0-green.svg)
+![GitHub license](https://img.shields.io/badge/license-The Unlicense-green.svg)
 
 #### GitHub
 [Github Profile](https://github.com/chrislee-webdev)
