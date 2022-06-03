@@ -1,8 +1,8 @@
 
-# Title: Note Taker App
+# Title: My Employee Tracker
 
 ## Description:
-This is an onlilne application that uses Express.js that allows the user to take and save notes.
+A command line app using MySql for viewing and creating departments, role, and employees within an organization.
 
 ### Table of contents
 * [Installation](#installation)
@@ -17,16 +17,16 @@ This is an onlilne application that uses Express.js that allows the user to take
 N/A
 
 #### Usage
-Visit the deployed website.
+Node.js
 
 #### Contribute
 GitHub
 
 #### Test
-Visit the website.
+Node.js
 
 #### License
-![GitHub license](https://img.shields.io/badge/license-The Unlicense-green.svg)
+![GitHub license](https://img.shields.io/badge/license-Creative Commons license family-green.svg)
 
 #### GitHub
 [Github Profile](https://github.com/chrislee-webdev)
