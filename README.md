@@ -1,8 +1,8 @@
 
-# Title: My Employee Tracker
+# Title: ORM E-Commerce Backend
 
 ## Description:
-A command line app using MySql for viewing and creating departments, role, and employees within an organization.
+This is a backend app for an E-Commerce site that allows the uses API GET, POST, PUT, and DELETE routes to make changes to their database. This app uses Sequelize to interact with the MySql Database
 
 ### Table of contents
 * [Installation](#installation)
@@ -17,13 +17,13 @@ A command line app using MySql for viewing and creating departments, role, and e
 N/A
 
 #### Usage
-Node.js
+N/A
 
 #### Contribute
 GitHub
 
 #### Test
-Node.js
+N/A
 
 #### License
 ![GitHub license](https://img.shields.io/badge/license-Creative Commons license family-green.svg)
